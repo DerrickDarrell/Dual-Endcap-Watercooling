@@ -5,8 +5,8 @@ Stepper motors in high-performance 3D printers can run hot under heavy loads, es
 
 ## WHY IT MATTERS
 
-### Lower operating temperatures
-     Higher sustained current
+- Lower operating temperatures
+     -- Higher sustained current
 - Better thermal symmetry
      Both endcaps and bearings stay closer in temperature, reducing shaft expansion and improving dimensional stability. Expansion is in the microns but enough to influence backlash, runout, and wear
 - Longer motor life
