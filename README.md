@@ -1,4 +1,5 @@
 # Dual-Endcap-Watercooling
 
 
-<img width="1490" height="1323" alt="479814497-9e0b16c1-8a85-4595-a9fe-a2f6bafcbe8a" src="https://github.com/user-attachments/assets/2224e097-9ac4-458b-9d43-b8ce0213f772" />
+<img width="2067" height="1731" alt="Dual Endcap Watercooling-2025-09-29 034954" src="https://github.com/user-attachments/assets/30f1e92a-75d3-49f2-9b92-cf35b6f202f3" />
+
