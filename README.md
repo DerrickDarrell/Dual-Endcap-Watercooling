@@ -13,7 +13,8 @@ Stepper motors in high-performance 3D printers can run hot under heavy loads, es
                - Cooler windings and bearings, less insulation breakdown
 - **Consistent performance**
                - Torque output remains stable during long prints or high duty operations
-
+- **Larger water cavity**
+               - More surface area for heat transfer
 
 <img width="1973" height="1548" alt="Dual Endcap Watercooling-2025-09-29 221409" src="https://github.com/user-attachments/assets/3b0c20aa-3c02-4794-a072-9fb49e916d8b" />
 
