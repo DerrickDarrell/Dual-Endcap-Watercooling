@@ -30,4 +30,4 @@ Stepper motors in high-performance 3D printers can run hot under heavy loads, es
 - 11x14x1.5 o-ring = x1
 - 35x39x2 o-ring = x2
 - M5 4mm tube PTC fitting = x4
-- Thermal grease  or  silicone based thermal pads (not tested)
+- Thermal grease  or  silicone based thermal pads (pads not tested)
