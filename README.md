@@ -4,6 +4,7 @@
 Stepper motors in high-performance 3D printers can run hot under heavy loads, especially when pushing high current/voltage or driving long duty cucles in enclosures. Some solutions out there at the moment only pull heat from one side of the motor, which leaves the opposite end and bearing region to run hotter. Dual endcap watercooling solves this by pulling heat evenly from both ends of the motor body.
 
 <img width="1973" height="1548" alt="Dual Endcap Watercooling - CAD" src="https://github.com/user-attachments/assets/d2fe6c67-3a8f-4ce0-887b-ce2ae5adf6d5" />
+<img width="1434" height="1330" alt="1012_1" src="https://github.com/user-attachments/assets/44f38e4b-5b39-4a9c-acc0-0dcc1d34c6cc" />
 
 ## WHY IT MATTERS
 
