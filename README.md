@@ -21,7 +21,7 @@ Stepper motors in high-performance 3D printers can run hot under heavy loads, es
 
 ## INSTALLATION
 
-- These water blocks will work on any Nema 17 stepper motor as long as the hole pattern is 31x31 and the shaft hub does not exceed 22mm in diameter, 5 or 8mm shaft as well. Your typical LDO or omc motor falls under that. (check beforehand)
+- These water blocks will work on any Nema 17 stepper motor as long as the hole pattern is 31x31, the shaft hub does not exceed 22mm in diameter and does not protrude more than 2mm. Your typical LDO or omc motor falls under that. 5 and 8mm shaft motors work.
 
 ## BOM
 
