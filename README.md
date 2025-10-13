@@ -6,7 +6,7 @@ Stepper motors in high-performance 3D printers can run hot under heavy loads, es
 ## LINKS
 [buy me a ko-fi](https://ko-fi.com/derrickdarrell)
 
-[You can buy it here](https://www.funssorlab.com/products/funssor-1set-nema17-stepper-motor-dual-endcap-watercooling-by-derrickdarrell-nema17-motor-liquid-cooler?VariantsId=11125)
+[Buy the water blocks here](https://www.funssorlab.com/products/funssor-1set-nema17-stepper-motor-dual-endcap-watercooling-by-derrickdarrell-nema17-motor-liquid-cooler?VariantsId=11125)
 
 <img width="1920" height="920" alt="Untitled design" src="https://github.com/user-attachments/assets/e5cb76ec-f1ae-4844-9fa6-8486daa319fc" />
 
