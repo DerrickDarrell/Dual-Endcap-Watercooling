@@ -31,7 +31,7 @@ Stepper motors in high-performance 3D printers can run very hot under heavy load
 
 ## BOM
 
-- M2.5x8mm FHCS = x4
+- M2.5x6mm FHCS = x4
 - M3x50mm SCHS (48mm motor) = x4
 - M3x65mm SCHS (60mm motor) = x4
 - 11x14x1.5 o-ring = x1
