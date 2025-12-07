@@ -6,7 +6,7 @@ Stepper motors in high-performance 3D printers can run very hot under heavy load
 ## LINKS
 [buy me a ko-fi](https://ko-fi.com/derrickdarrell)
 
-[Buy the water blocks here]([https://www.funssorlab.com/products/funssor-1set-nema17-stepper-motor-dual-endcap-watercooling-by-derrickdarrell-nema17-motor-liquid-cooler?VariantsId=11125](https://www.aliexpress.us/item/3256809950984997.html?spm=a2g0o.productlist.main.1.5d1e6454QiXYtD&algo_pvid=16529543-c6c6-416d-afdb-a01b99d7d40e&algo_exp_id=16529543-c6c6-416d-afdb-a01b99d7d40e-0&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2125.29%2125.29%21%21%2125.29%2125.29%21%402101e07217651453583474003e9374%2112000051299787598%21sea%21US%212603866703%21X%211%210%21n_tag%3A-29919%3Bd%3A29a64859%3Bm03_new_user%3A-29895&curPageLogUid=MhZlvypifQRP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010137299749%7C_p_origin_prod%3A))
+[Buy the water blocks here](https://www.aliexpress.us/item/3256809950984997.html?channel=twinner)
 
 <img width="1920" height="920" alt="Untitled design" src="https://github.com/user-attachments/assets/e5cb76ec-f1ae-4844-9fa6-8486daa319fc" />
 
